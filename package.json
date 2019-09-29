@@ -1,0 +1,19 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "Fun are repo that include of fun project <h1>compass-js</h1> <p>Installation:</p> <ul> <li> Node.js <li> Npm </li> </ul> <p>then npm start</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HERBOD7/Fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HERBOD7/Fun/issues"
+  },
+  "homepage": "https://github.com/HERBOD7/Fun#readme"
+}
