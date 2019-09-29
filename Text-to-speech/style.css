@@ -51,6 +51,7 @@ body {
 }
   
 p {
+    text-align: right;
     margin: 0 0 3rem;
 }
 .words:before {
